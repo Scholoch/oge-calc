@@ -7,7 +7,7 @@ def readme():
 
 
 setup(
-  name='oge-calc',
+  name='oge_calc',
   version='0.0.1',
   author='Scholoch',
   author_email='alf.201105@gmail.com',
