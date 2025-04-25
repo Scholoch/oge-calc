@@ -8,7 +8,7 @@ def readme():
 
 setup(
   name='CalcOge',
-  version='0.0.3',
+  version='0.0.6',
   author='Scholoch',
   author_email='alf.201105@gmail.com',
   description='Simple calculation of OGE tasks',
